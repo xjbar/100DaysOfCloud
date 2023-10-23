@@ -1,11 +1,11 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Day 1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Hi, my name is Jonathan. I chose to do this project because im always trying to find the best ways to learn complex and interesting topics. Getting deeper into cloud will open more doors for me and also help me better understand the things I do know like computer security.
 
 ## Prerequisite
 

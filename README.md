@@ -10,20 +10,16 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Jonathan's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Hi, I am Jonathan! I am currently working on securing my first professional role in the Information Technology industry.
 
-[✍️ Introduce yourself]
+Learning is a major passion of mine so I started this challenge to maximize my cloud skills. I currently hold CompTIA Sec+, AZ-900, AZ-104, AWSCCP as well as a bachelors degree in Computer Security & Information Assurance.
 
-[✍️ Tell us why you started this challenge]
+By the end of the challenge I hope to get my AZ-400 cert and obtain my first job in the industry.
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Follow me on Twitter](https://twitter.com/@xjbarnft)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/jonathanbarreneche)
 
 ## Stepping out the door
 
